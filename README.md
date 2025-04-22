@@ -15,8 +15,6 @@ A simple web application built with JavaScript that allows users to search Wikip
 - CSS
 - JavaScript
 
-## Getting Started
-
 ### Prerequisites
 
 A modern web browser and internet connection.
